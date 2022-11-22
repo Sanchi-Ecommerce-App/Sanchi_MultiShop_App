@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/utilities/categ_list.dart';
-import 'package:multi_store_app/widgets/categ_widgets.dart';
+import 'package:sanchi_multishop_app/utilities/categ_list.dart';
+import 'package:sanchi_multishop_app/widgets/categ_widgets.dart';
 
 class HomeGardenCategory extends StatelessWidget {
   const HomeGardenCategory({Key? key}) : super(key: key);

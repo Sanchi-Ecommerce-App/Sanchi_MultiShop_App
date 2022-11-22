@@ -1,8 +1,10 @@
+// ignore_for_file: library_private_types_in_public_api
+
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/main_screens/category.dart';
-import 'package:multi_store_app/main_screens/dashboard.dart';
-import 'package:multi_store_app/main_screens/home.dart';
-import 'package:multi_store_app/main_screens/stores.dart';
+import 'package:sanchi_multishop_app/main_screens/category.dart';
+import 'package:sanchi_multishop_app/main_screens/dashboard.dart';
+import 'package:sanchi_multishop_app/main_screens/home.dart';
+import 'package:sanchi_multishop_app/main_screens/stores.dart';
 
 class SupplierHomeScreen extends StatefulWidget {
   const SupplierHomeScreen({Key? key}) : super(key: key);

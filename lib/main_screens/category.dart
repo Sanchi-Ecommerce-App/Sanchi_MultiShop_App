@@ -1,14 +1,16 @@
+// ignore_for_file: library_private_types_in_public_api
+
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/categories/accessories_categ.dart';
-import 'package:multi_store_app/categories/bags_categ.dart';
-import 'package:multi_store_app/categories/beauty_categ.dart';
-import 'package:multi_store_app/categories/electro_categ.dart';
-import 'package:multi_store_app/categories/home_garden_categ.dart';
-import 'package:multi_store_app/categories/kids_categ.dart';
-import 'package:multi_store_app/categories/men_categ.dart';
-import 'package:multi_store_app/categories/shoes_categ.dart';
-import 'package:multi_store_app/categories/women_categ.dart';
-import 'package:multi_store_app/widgets/fake_search.dart';
+import 'package:sanchi_multishop_app/categories/accessories_categ.dart';
+import 'package:sanchi_multishop_app/categories/bags_categ.dart';
+import 'package:sanchi_multishop_app/categories/beauty_categ.dart';
+import 'package:sanchi_multishop_app/categories/electro_categ.dart';
+import 'package:sanchi_multishop_app/categories/home_garden_categ.dart';
+import 'package:sanchi_multishop_app/categories/kids_categ.dart';
+import 'package:sanchi_multishop_app/categories/men_categ.dart';
+import 'package:sanchi_multishop_app/categories/shoes_categ.dart';
+import 'package:sanchi_multishop_app/categories/women_categ.dart';
+import 'package:sanchi_multishop_app/widgets/fake_search.dart';
 
 List<ItemsData> items = [
   ItemsData(label: 'men'),

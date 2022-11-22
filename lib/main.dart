@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/main_screens/customer_home.dart';
-import 'package:multi_store_app/main_screens/supplier_home.dart';
-import 'package:multi_store_app/main_screens/welcome_screen.dart';
+import 'package:sanchi_multishop_app/main_screens/customer_home.dart';
+import 'package:sanchi_multishop_app/main_screens/supplier_home.dart';
+import 'package:sanchi_multishop_app/main_screens/welcome_screen.dart';
 
 void main() {
   runApp(const MyApp());

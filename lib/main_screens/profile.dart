@@ -1,8 +1,10 @@
+// ignore_for_file: library_private_types_in_public_api
+
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/customer_screens/customer_orders.dart';
-import 'package:multi_store_app/customer_screens/wishlist.dart';
-import 'package:multi_store_app/main_screens/cart.dart';
-import 'package:multi_store_app/widgets/appbar_widgets.dart';
+import 'package:sanchi_multishop_app/customer_screens/customer_orders.dart';
+import 'package:sanchi_multishop_app/customer_screens/wishlist.dart';
+import 'package:sanchi_multishop_app/main_screens/cart.dart';
+import 'package:sanchi_multishop_app/widgets/appbar_widgets.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({Key? key}) : super(key: key);

@@ -1,7 +1,9 @@
+// ignore_for_file: library_private_types_in_public_api
+
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/widgets/yellow_button.dart';
+import 'package:sanchi_multishop_app/widgets/yellow_button.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 
 const textColors = [
