@@ -1,5 +1,7 @@
+// ignore_for_file: library_private_types_in_public_api
+
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/widgets/fake_search.dart';
+import 'package:sanchi_multishop_app/widgets/fake_search.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

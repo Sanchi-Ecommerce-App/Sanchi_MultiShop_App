@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/widgets/appbar_widgets.dart';
-import 'package:multi_store_app/widgets/yellow_button.dart';
+import 'package:sanchi_multishop_app/widgets/appbar_widgets.dart';
+import 'package:sanchi_multishop_app/widgets/yellow_button.dart';
 
 class CartScreen extends StatelessWidget {
   final Widget? back;

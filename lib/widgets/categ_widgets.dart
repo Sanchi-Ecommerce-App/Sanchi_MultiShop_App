@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/minor_screens/subcateg_products.dart';
+import 'package:sanchi_multishop_app/minor_screens/subcateg_products.dart';
 
 class SliderBar extends StatelessWidget {
   final String sliderLabel;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:multi_store_app/widgets/appbar_widgets.dart';
+import 'package:sanchi_multishop_app/widgets/appbar_widgets.dart';
 
 class MyStore extends StatelessWidget {
   const MyStore({Key? key}) : super(key: key);
